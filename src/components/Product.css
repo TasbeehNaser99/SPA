@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+p{
+    font-family: 'Edu TAS Beginner';
+    font-size: 32px;
+}
+.img{
+    border: 1px solid #000;
+    border-radius: 10px;
+    margin-block: 10%;
+}
+h2{
+    font-family: 'Patrick Hand';
+}
